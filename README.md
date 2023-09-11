@@ -1,6 +1,6 @@
 ## Hello World👋
 _________________________________________________________________________
-Hacker Ético, Analista de Teste, Desenvolvedor Front... Também Videomaker.
+Ethical Hacker, Test Analyst, Front Developer... Also Videomaker.
 
  ### Skills
 <div>
