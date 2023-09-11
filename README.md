@@ -1,6 +1,7 @@
-## Hello World👋
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/hcasaes)](https://github.com/hcasaes)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hugocasaes/)](https://www.linkedin.com/in/hugocasaes/)
+## Hello World👋 I'm Hugo Casaes
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hugocasaes)
+[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/hcasaes) 
 _________________________________________________________________________
 Ethical Hacker, Test Analyst, Front Developer... Also Videomaker.
 
@@ -22,3 +23,5 @@ Ethical Hacker, Test Analyst, Front Developer... Also Videomaker.
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
   <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white">
 </div> 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hcasaes&label=Profile%20views&color=0e75b6&style=flat" alt="hcasaes" /> </p>
