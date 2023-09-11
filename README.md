@@ -1,4 +1,6 @@
 ## Hello World👋
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/hcasaes)](https://github.com/hcasaes)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hcasaes/)](https://www.linkedin.com/in/hcasaes/)
 _________________________________________________________________________
 Ethical Hacker, Test Analyst, Front Developer... Also Videomaker.
 
