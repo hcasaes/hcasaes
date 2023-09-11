@@ -2,8 +2,6 @@
 _________________________________________________________________________
 Hacker Ético, Analista de Teste, Desenvolvedor Front... Também Videomaker.
 
-![Hugo GitHub stats](https://github-readme-stats.vercel.app/api?username=hcasaes&show_icons=true&theme=transparent)
-
  ### Skills
 <div>
   <img align="center" alt="Yang-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
