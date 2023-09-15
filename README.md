@@ -8,6 +8,6 @@
 
 I'm a cybersecurity professional with a background in software development and interested in learning more about network and systems security.
 _________________________________________________________________________
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hcasaes&theme=dark&hide_border=true&layout=compact&include_all_commits=true&count_private=true&hide=json,properties,stylus,coffescript&card_width=495px)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hcasaes&theme=dark&hide_border=true&layout=compact&include_all_commits=true&count_private=true&hide=json,properties,stylus,coffescript&card_width=200px)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hcasaes&label=Profile%20views&color=0e75b6&style=flat" alt="hcasaes" /> </p>
