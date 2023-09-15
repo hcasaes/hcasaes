@@ -1,7 +1,7 @@
 ## Hello World!
 
 <a href="https://linkedin.com/in/hugocasaes" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-<a href="mailto:hugocasaes@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<a href="https://www.youtube.com/@hyccsecurity" target="_blank"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 <a href="https://hcasaes.github.io/" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 <a href="https://codepen.io/hcasaes" target="_blank"> <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white">
 <a href="https://app.hackthebox.com/profile/1649834" target="_blank"> <img src="https://raw.githubusercontent.com/hcasaes/HackTheBox-write-ups/main/Machines/htblogo.png" width="110" height="27">
